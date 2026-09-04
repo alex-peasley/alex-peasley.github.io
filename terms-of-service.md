@@ -1,1 +1,1 @@
-Anyone other than Alex Peasley using this OAuth client is a very naughty boy.
+Misuse will result in termination of privileges.
