@@ -1,22 +1,42 @@
-# Alex Peasley 👋
+# Personal Google Drive Synchronisation
 
-Software Engineer focused on **data engineering, reliable systems, and practical problem-solving**.
+This application is a private, personal-use application that enables rclone to securely access my Google Drive.
 
-## Skills 🛠️
+## Purpose
 
-* SQL and data modelling
-* ETL and data pipelines
-* Internal APIs and service integrations
-* Data quality and validation
-* Observability and incident response
-* Automation and operational tooling
-* Technical documentation and collaboration 🤝
+This application is used exclusively by its owner to synchronise and manage files stored in their personal Google Drive account using rclone.
 
-## Interests 🚀
+rclone is a command-line application used to manage and synchronise files between local computers and cloud storage services.
 
-* Building dependable data systems
-* Improving reliability and maintainability
-* Simplifying complex technical problems
-* Learning about distributed systems and cloud infrastructure
+## How Google Drive Data Is Used
 
-Always learning. Always improving. 🌱
+This application requests access to Google Drive solely to allow rclone to perform file management and synchronisation operations initiated or configured by the application owner.
+
+This may include:
+
+- Viewing files and folders stored in Google Drive.
+- Uploading files to Google Drive.
+- Downloading files from Google Drive.
+- Creating and modifying files and folders.
+- Moving or deleting files when required by configured synchronisation operations.
+
+Google Drive data is accessed solely for personal file management and synchronisation.
+
+## Data Sharing
+
+This application is intended exclusively for private personal use.
+
+No Google user data is:
+
+- Sold to third parties.
+- Shared with third parties.
+- Used for advertising.
+- Used for analytics or tracking purposes.
+
+## Privacy
+
+Information about how this application handles data can be found in the [Privacy Policy](privacy.md).
+
+## Contact
+
+For questions regarding this application, please contact the application owner using the contact information provided on the application's Google OAuth consent screen.
